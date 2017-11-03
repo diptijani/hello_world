@@ -1,2 +1,2 @@
-# hello_world
-Practise repository for learning purpose.
+# The first commit file
+Practise change on How to commit in Git repository.
